@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hashtagrik
+- 👋 Hi, I’m Me
 - 👀 I’m interested in Games/VR/AR/Webtech
 - 🌱 I’m currently learning Python
   - Automate the boring stuff
