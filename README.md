@@ -16,7 +16,7 @@ Still like the AR and VR side of things but more in a sence of how can it add va
 
 Also looking into how to combine the whole lot and create physical interfaces for people to use and. 
 
-As you can see my interests are very broad, but all come back to my main [vision](# Vision).
+As you can see my interests are very broad, but all come back to my main [vision](#Vision).
 
 # Learning
 Currently I'me spending most of my time learning Python by doing. Small projects that are fun and teach me how to get better in python. 
