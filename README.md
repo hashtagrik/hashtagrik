@@ -1,7 +1,7 @@
 👋 Hi, I’m Rik, digital maker/creator
 
 # Vision
-My vision is creating and improving digital- products, art, games (you name it as long as it is digital), that help people florish in the things they want to accomplish in work, education in life.
+My vision is creating and improving digital- products, art, games (you name it as long as it is digital), that help people florish in the things they want to accomplish in work, education, in life.
 
 # Interests
 I have a very diverse interest in technology. I like al things Web🕸️ related, the good and the bad stuff. Both need to exist in order to balance each other out, its that yin and yang ☯️ feeling.
