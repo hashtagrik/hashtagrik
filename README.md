@@ -24,6 +24,8 @@ Main resources for inspiration are the docs of python as well as some creators; 
 
 Also want to get inspired see the following: [The Untold Story of Python](https://www.youtube.com/watch?v=DsYIdMmI5-Q)
 
+Also looking into Svelte to create interessting webapps. Would like to combine the two since I think it is a match made in heaven. 
+
 
 
 
